@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mybis">
+    <output-path>$PROJECT_DIR$/out/artifacts/mybis</output-path>
+    <root id="archive" name="mybis.jar" />
+  </artifact>
+</component>
